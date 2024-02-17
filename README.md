@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Julian4454
+- 👀 I’m interested in Data Science & Data Analysis, Finance & Controlling
+- 🌱 I’m currently learning Python & SQL
